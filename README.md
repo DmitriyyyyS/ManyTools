@@ -11,5 +11,10 @@ Welcome to the Many Tools project for macOS!
 <img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/1.png" width="700" height="500"/>
 
 
+<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/3.png" width="700" height="500"/>
+
+<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/4.png" width="700" height="500"/>
+
+
 Tested on macOS 10.15-12 (Monterey)
 
