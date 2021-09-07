@@ -7,8 +7,7 @@
 
 Welcome to the Many Tools project for macOS!
   
-
-<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/1.png" width="560" height="366"/>
+![demo](./Others/p/1.png)
 
 <img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/5.png" width="558" height="413"/>
 
