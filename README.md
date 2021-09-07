@@ -7,19 +7,17 @@
 
 Welcome to the Many Tools project for macOS!
   
-[demo](./Others/p/1.png)
+![demo](./Others/p/1.png)
 
+![demo](./Others/p/5.png)
 
-<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/5.png" width="558" height="413"/>
+![demo](./Others/p/6.png)
 
-<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/6.png" width="562" height="368"/>
+![demo](./Others/p/3.png)
 
+![demo](./Others/p/4.png)
 
-<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/3.png" width="309" height="149"/>
-
-<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/4.png" width="559" height="364"/>
-
-<img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/7.png" width="430" height="306"/>
+![demo](./Others/p/7.png)
 
 
 Tested on macOS 10.15-12 (Monterey)
