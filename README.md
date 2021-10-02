@@ -21,6 +21,10 @@ Welcome to the Many Tools project for macOS!
 
 ![demo](./Others/p/8.png)
 
+![demo](./Others/p/9.png)
+
+![demo](./Others/p/10.png)
+
 
 
 Tested on macOS 10.15-12 (Monterey)
