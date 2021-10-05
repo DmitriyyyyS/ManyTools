@@ -1,6 +1,6 @@
 # Welcome to the Many Tools project!
-![Many Tools](https://img.shields.io/badge/Many%20Tools-1.2.1-green)
-[![GitHub forks](https://img.shields.io/badge/Download-program-yellow)](https://github.com/DmitriyyyyS/ManyTools/releases/tag/1.2.1)
+![Many Tools](https://img.shields.io/badge/ManyTools-1.2.4-green)
+[![GitHub forks](https://img.shields.io/badge/Download-program-yellow)](https://github.com/DmitriyyyyS/ManyTools/releases/tag/1.2.4)
 
 
 <img src="https://github.com/DmitriyyyyS/ManyTools/blob/main/Others/p/logo.png" width="128" height="128"/>
