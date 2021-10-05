@@ -7,21 +7,17 @@
 
 Welcome to the Many Tools project for macOS!
   
+![demo](./Others/p/0.png)
+
 ![demo](./Others/p/1.png)
 
-![demo](./Others/p/5.png)
-
-![demo](./Others/p/6.png)
+![demo](./Others/p/2.png)
 
 ![demo](./Others/p/3.png)
 
 ![demo](./Others/p/4.png)
 
-![demo](./Others/p/8.png)
-
-![demo](./Others/p/9.png)
-
-![demo](./Others/p/10.png)
+![demo](./Others/p/5.png)
 
 
 
